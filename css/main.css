@@ -49,7 +49,7 @@ nav{
     margin-top: auto;
     width: 100%;
     height: 700px;
-    background-color: aquamarine;
+
 }
 
 .about{
@@ -60,13 +60,21 @@ nav{
     z-index: 0;
 }
 
+
+.fab{
+    width: 50px;
+    height: 50px;
+    margin-left: 450px;
+    padding-top: 60px;
+    z-index: 5;
+}
 .logocontainer{
     height: 100px;
     position: absolute;
     margin-top: -50px;
     width: 100px !important;
     margin-left: 60px;
-    background-color: red;
+    background-color: white;
     z-index: 3;
     
 }
